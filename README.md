@@ -54,8 +54,7 @@ Returns `Promise<array>`, where each row is mapped to an object using the output
 ### `service.namedQuery(name, options={})`
 Executes a new query.
 
-- `db` - The name of the database to query against
-- `query` – The SQL query body
+- `name` - The name stored query to run
 - `options` - (optional) Query options. Defaults to `{}`
   - `options.scheduledTime` – (optional) The scheduled time the job will execute using. Defaults to `Date.now`.
  
@@ -140,6 +139,7 @@ npm run report
 ```
 
 This will perform:
+
 * Unit tests
 * Code coverage report
 * Code linting
