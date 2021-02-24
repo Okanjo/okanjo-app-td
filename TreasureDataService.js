@@ -1,6 +1,6 @@
 "use strict";
 
-const TDClient = require('td');
+const TDClient = require('td').TDClient;
 const QueryString = require('querystring');
 
 /**
