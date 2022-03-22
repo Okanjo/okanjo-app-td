@@ -1,6 +1,6 @@
 # Okanjo TreasureData Service
 
-[![Build Status](https://travis-ci.org/Okanjo/okanjo-app-td.svg?branch=master)](https://travis-ci.org/Okanjo/okanjo-app-td) [![Coverage Status](https://coveralls.io/repos/github/Okanjo/okanjo-app-td/badge.svg?branch=master)](https://coveralls.io/github/Okanjo/okanjo-app-td?branch=master)
+[![Node.js CI](https://github.com/Okanjo/okanjo-app-td/actions/workflows/node.js.yml/badge.svg)](https://github.com/Okanjo/okanjo-app-td/actions/workflows/node.js.yml) [![Coverage Status](https://coveralls.io/repos/github/Okanjo/okanjo-app-td/badge.svg?branch=master)](https://coveralls.io/github/Okanjo/okanjo-app-td?branch=master)
 
 Service for interfacing with TreasureData for the Okanjo App ecosystem.
 
